@@ -1,0 +1,65 @@
+#qna {
+    display: none;
+}
+
+.qBox {
+    text-align: center;
+    border-radius: 20px;
+    font-size: 24px;
+    width: 80%;
+    font-family: 'GmarketSansMedium';
+    padding : 5px 30px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.answerList {
+    border: 3px solid rgb(7, 112, 46);
+    border-radius: 10px;
+    display: block;
+    width: 70%;
+    font-size: 20px;
+    padding : 5px 15px;
+    color : black;
+    background-color: white;
+    text-align: left;
+}
+
+.answerList:link{
+color:black; 
+border: 1px solid  ;
+text-decoration: none;
+border: none;
+}
+.answerList:hover, .answerList:focus {
+/* background-color: rgb(252, 206, 120); */
+background-color: rgb(134, 239, 173);
+color: rgb(0, 0, 0);
+text-decoration: none;
+}
+.status {
+height: 30px;
+width: 80%;
+background-color: rgb(250, 158, 53);
+color: rgb(7, 112, 46);
+border-radius: 20px;
+}
+
+.statusBar {
+height: 100%;
+border-radius: 7px;
+background: rgb(7, 112, 46);
+}
+
+.countStatus{
+text-align: center;
+color : white;
+font-size: 1.2em;
+margin-bottom: 10px;
+}
+
+.resultBtn{
+text-align: center; 
+margin-top: 20px; 
+display: inline;
+}

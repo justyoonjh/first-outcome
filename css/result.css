@@ -1,0 +1,61 @@
+#result{
+    display: none;
+    background-color: rgb(249, 230, 191);
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(000, 102, 051);
+  }
+  #shareResult{
+    background-color: whitesmoke;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+  
+.resultname{
+    font-size: 26px;
+  }
+  
+.resultDesc{
+    font-size: 20px;
+    font-family: GmarketSansMedium;
+  }
+  
+  
+  .resultName{
+    margin-top: 10px;
+    font-size: 2.5em; 
+    border: none;
+    
+  }
+  .resultIntro{
+    font-size:3.5em;
+    color: #868686;
+  }
+  .resultDescTitle1, .resultDescTitle2{
+    font-size: 1.5em; 
+    
+  }
+  
+  .resultDesc1, .resultDesc2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom: 3px dashed rgb(000, 102, 051);
+    font-size: 1em;
+    color: rgb(152, 101, 101);
+    font-family: GmarketSansMedium;
+    line-height: 35px;
+  }
+  
+  .shareReusltBox{
+    margin-top: 40px;
+  }
+  .shareReuslt{
+    font-size: 1.5em; 
+    font-family: GmarketSansMedium;
+    color: #868686;
+  }
